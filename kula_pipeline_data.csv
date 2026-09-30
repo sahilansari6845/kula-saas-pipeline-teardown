@@ -1,0 +1,1001 @@
+company_id,company_name,industry,lead_source,demo_requested,demo_attended,trial_activated,emails_sent_in_trial,deal_status,arr_value_usd
+COMP_0001,Enterprise_Client_1,B2B SaaS,LinkedIn Inbound,1,1,1,72,Closed Won,24000
+COMP_0002,Enterprise_Client_2,E-commerce,Referral,1,1,1,56,Closed Won,12000
+COMP_0003,Enterprise_Client_3,FinTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0004,Enterprise_Client_4,B2B SaaS,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0005,Enterprise_Client_5,EdTech,Referral,1,1,1,76,Closed Lost,0
+COMP_0006,Enterprise_Client_6,E-commerce,Referral,1,1,1,98,Closed Lost,0
+COMP_0007,Enterprise_Client_7,B2B SaaS,Referral,1,1,0,0,Closed Lost,0
+COMP_0008,Enterprise_Client_8,B2B SaaS,Referral,1,1,0,0,Closed Lost,0
+COMP_0009,Enterprise_Client_9,FinTech,Cold Outbound,1,1,1,54,Closed Won,12000
+COMP_0010,Enterprise_Client_10,HealthTech,Referral,1,1,1,54,Closed Lost,0
+COMP_0011,Enterprise_Client_11,FinTech,LinkedIn Inbound,1,1,1,99,Closed Won,24000
+COMP_0012,Enterprise_Client_12,EdTech,Referral,1,1,1,79,Closed Won,12000
+COMP_0013,Enterprise_Client_13,E-commerce,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0014,Enterprise_Client_14,E-commerce,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0015,Enterprise_Client_15,EdTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0016,Enterprise_Client_16,B2B SaaS,Referral,1,1,1,48,Closed Lost,0
+COMP_0017,Enterprise_Client_17,FinTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0018,Enterprise_Client_18,HealthTech,Referral,1,1,1,73,Closed Won,12000
+COMP_0019,Enterprise_Client_19,FinTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0020,Enterprise_Client_20,E-commerce,Referral,1,1,1,48,Closed Lost,0
+COMP_0021,Enterprise_Client_21,HealthTech,Cold Outbound,1,1,1,48,Closed Lost,0
+COMP_0022,Enterprise_Client_22,E-commerce,Referral,1,1,1,66,Closed Won,12000
+COMP_0023,Enterprise_Client_23,HealthTech,Cold Outbound,1,1,1,12,Closed Won,12000
+COMP_0024,Enterprise_Client_24,FinTech,Referral,1,1,1,16,Closed Lost,0
+COMP_0025,Enterprise_Client_25,HealthTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0026,Enterprise_Client_26,HealthTech,Cold Outbound,1,1,1,45,Closed Lost,0
+COMP_0027,Enterprise_Client_27,HealthTech,Referral,1,1,1,34,Closed Lost,0
+COMP_0028,Enterprise_Client_28,HealthTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0029,Enterprise_Client_29,HealthTech,LinkedIn Inbound,1,1,1,67,Closed Won,18000
+COMP_0030,Enterprise_Client_30,EdTech,Organic Search,1,1,1,37,Closed Lost,0
+COMP_0031,Enterprise_Client_31,B2B SaaS,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0032,Enterprise_Client_32,FinTech,Cold Outbound,1,1,1,24,Closed Lost,0
+COMP_0033,Enterprise_Client_33,B2B SaaS,Referral,1,1,0,0,Closed Lost,0
+COMP_0034,Enterprise_Client_34,EdTech,LinkedIn Inbound,1,1,1,96,Closed Lost,0
+COMP_0035,Enterprise_Client_35,FinTech,Organic Search,1,1,1,54,Closed Lost,0
+COMP_0036,Enterprise_Client_36,E-commerce,Organic Search,1,1,1,61,Closed Won,12000
+COMP_0037,Enterprise_Client_37,HealthTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0038,Enterprise_Client_38,HealthTech,LinkedIn Inbound,1,1,1,24,Closed Lost,0
+COMP_0039,Enterprise_Client_39,EdTech,Cold Outbound,1,1,1,46,Closed Won,24000
+COMP_0040,Enterprise_Client_40,E-commerce,LinkedIn Inbound,1,1,1,62,Closed Won,6000
+COMP_0041,Enterprise_Client_41,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0042,Enterprise_Client_42,FinTech,Cold Outbound,1,1,1,31,Closed Lost,0
+COMP_0043,Enterprise_Client_43,FinTech,Referral,1,1,1,69,Closed Won,18000
+COMP_0044,Enterprise_Client_44,EdTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0045,Enterprise_Client_45,E-commerce,Referral,1,1,1,44,Closed Won,12000
+COMP_0046,Enterprise_Client_46,HealthTech,LinkedIn Inbound,1,1,1,52,Closed Won,24000
+COMP_0047,Enterprise_Client_47,B2B SaaS,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0048,Enterprise_Client_48,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0049,Enterprise_Client_49,HealthTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0050,Enterprise_Client_50,EdTech,Organic Search,1,1,1,44,Closed Won,12000
+COMP_0051,Enterprise_Client_51,E-commerce,Referral,1,1,1,106,Closed Won,6000
+COMP_0052,Enterprise_Client_52,EdTech,Cold Outbound,1,1,1,59,Closed Won,24000
+COMP_0053,Enterprise_Client_53,B2B SaaS,Referral,1,1,0,0,Closed Lost,0
+COMP_0054,Enterprise_Client_54,E-commerce,Referral,1,1,1,33,Closed Lost,0
+COMP_0055,Enterprise_Client_55,HealthTech,LinkedIn Inbound,1,1,1,80,Closed Won,12000
+COMP_0056,Enterprise_Client_56,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0057,Enterprise_Client_57,HealthTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0058,Enterprise_Client_58,B2B SaaS,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0059,Enterprise_Client_59,E-commerce,Organic Search,1,1,1,29,Closed Won,18000
+COMP_0060,Enterprise_Client_60,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0061,Enterprise_Client_61,B2B SaaS,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0062,Enterprise_Client_62,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0063,Enterprise_Client_63,B2B SaaS,LinkedIn Inbound,1,1,1,65,Closed Lost,0
+COMP_0064,Enterprise_Client_64,EdTech,Organic Search,1,1,1,11,Closed Won,12000
+COMP_0065,Enterprise_Client_65,B2B SaaS,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0066,Enterprise_Client_66,B2B SaaS,Organic Search,1,1,1,26,Closed Lost,0
+COMP_0067,Enterprise_Client_67,B2B SaaS,Referral,1,0,0,0,Closed Lost,0
+COMP_0068,Enterprise_Client_68,FinTech,Organic Search,1,1,1,64,Closed Lost,0
+COMP_0069,Enterprise_Client_69,EdTech,Referral,1,1,1,78,Closed Won,12000
+COMP_0070,Enterprise_Client_70,B2B SaaS,Referral,1,1,0,0,Closed Lost,0
+COMP_0071,Enterprise_Client_71,EdTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0072,Enterprise_Client_72,FinTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0073,Enterprise_Client_73,EdTech,Cold Outbound,1,1,1,64,Closed Won,24000
+COMP_0074,Enterprise_Client_74,FinTech,Organic Search,1,1,1,57,Closed Lost,0
+COMP_0075,Enterprise_Client_75,HealthTech,Cold Outbound,1,1,1,52,Closed Won,12000
+COMP_0076,Enterprise_Client_76,EdTech,Organic Search,1,1,1,23,Closed Lost,0
+COMP_0077,Enterprise_Client_77,FinTech,LinkedIn Inbound,1,1,1,42,Closed Lost,0
+COMP_0078,Enterprise_Client_78,HealthTech,Referral,1,1,1,48,Closed Lost,0
+COMP_0079,Enterprise_Client_79,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0080,Enterprise_Client_80,B2B SaaS,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0081,Enterprise_Client_81,EdTech,Cold Outbound,1,1,1,86,Closed Won,12000
+COMP_0082,Enterprise_Client_82,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0083,Enterprise_Client_83,EdTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0084,Enterprise_Client_84,FinTech,LinkedIn Inbound,1,1,1,68,Closed Won,18000
+COMP_0085,Enterprise_Client_85,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0086,Enterprise_Client_86,EdTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0087,Enterprise_Client_87,EdTech,Organic Search,1,1,1,15,Closed Lost,0
+COMP_0088,Enterprise_Client_88,FinTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0089,Enterprise_Client_89,EdTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0090,Enterprise_Client_90,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0091,Enterprise_Client_91,HealthTech,Organic Search,1,1,1,68,Closed Lost,0
+COMP_0092,Enterprise_Client_92,EdTech,Cold Outbound,1,1,1,50,Closed Won,6000
+COMP_0093,Enterprise_Client_93,HealthTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0094,Enterprise_Client_94,FinTech,Cold Outbound,1,1,1,43,Closed Won,24000
+COMP_0095,Enterprise_Client_95,B2B SaaS,Referral,1,1,1,75,Closed Won,24000
+COMP_0096,Enterprise_Client_96,EdTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0097,Enterprise_Client_97,HealthTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0098,Enterprise_Client_98,HealthTech,Organic Search,1,1,1,85,Closed Lost,0
+COMP_0099,Enterprise_Client_99,E-commerce,Referral,1,1,1,83,Closed Lost,0
+COMP_0100,Enterprise_Client_100,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0101,Enterprise_Client_101,E-commerce,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0102,Enterprise_Client_102,EdTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0103,Enterprise_Client_103,EdTech,Referral,1,1,1,39,Closed Lost,0
+COMP_0104,Enterprise_Client_104,FinTech,Referral,1,1,1,52,Closed Lost,0
+COMP_0105,Enterprise_Client_105,HealthTech,Referral,1,1,1,68,Closed Won,24000
+COMP_0106,Enterprise_Client_106,E-commerce,Referral,1,1,0,0,Closed Lost,0
+COMP_0107,Enterprise_Client_107,B2B SaaS,LinkedIn Inbound,1,1,1,84,Closed Won,6000
+COMP_0108,Enterprise_Client_108,FinTech,Organic Search,1,1,1,48,Closed Lost,0
+COMP_0109,Enterprise_Client_109,E-commerce,Referral,1,1,1,55,Closed Won,6000
+COMP_0110,Enterprise_Client_110,E-commerce,Organic Search,1,1,1,32,Closed Won,24000
+COMP_0111,Enterprise_Client_111,EdTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0112,Enterprise_Client_112,FinTech,LinkedIn Inbound,1,1,1,30,Closed Lost,0
+COMP_0113,Enterprise_Client_113,FinTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0114,Enterprise_Client_114,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0115,Enterprise_Client_115,B2B SaaS,Cold Outbound,1,1,1,80,Closed Won,24000
+COMP_0116,Enterprise_Client_116,FinTech,Referral,1,1,1,93,Closed Won,6000
+COMP_0117,Enterprise_Client_117,B2B SaaS,Referral,1,1,1,58,Closed Lost,0
+COMP_0118,Enterprise_Client_118,E-commerce,Referral,1,1,1,85,Closed Won,12000
+COMP_0119,Enterprise_Client_119,B2B SaaS,Referral,1,1,1,69,Closed Won,6000
+COMP_0120,Enterprise_Client_120,EdTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0121,Enterprise_Client_121,B2B SaaS,Referral,1,1,0,0,Closed Lost,0
+COMP_0122,Enterprise_Client_122,EdTech,Referral,1,1,1,43,Closed Lost,0
+COMP_0123,Enterprise_Client_123,E-commerce,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0124,Enterprise_Client_124,E-commerce,LinkedIn Inbound,1,1,1,69,Closed Won,6000
+COMP_0125,Enterprise_Client_125,HealthTech,LinkedIn Inbound,1,1,1,98,Closed Won,18000
+COMP_0126,Enterprise_Client_126,E-commerce,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0127,Enterprise_Client_127,E-commerce,Organic Search,1,1,1,59,Closed Won,18000
+COMP_0128,Enterprise_Client_128,HealthTech,Cold Outbound,1,1,1,99,Closed Won,12000
+COMP_0129,Enterprise_Client_129,EdTech,LinkedIn Inbound,1,1,1,0,Closed Lost,0
+COMP_0130,Enterprise_Client_130,EdTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0131,Enterprise_Client_131,FinTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0132,Enterprise_Client_132,FinTech,LinkedIn Inbound,1,1,1,80,Closed Won,18000
+COMP_0133,Enterprise_Client_133,B2B SaaS,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0134,Enterprise_Client_134,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0135,Enterprise_Client_135,FinTech,Referral,1,1,1,62,Closed Won,24000
+COMP_0136,Enterprise_Client_136,EdTech,LinkedIn Inbound,1,1,1,52,Closed Lost,0
+COMP_0137,Enterprise_Client_137,E-commerce,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0138,Enterprise_Client_138,EdTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0139,Enterprise_Client_139,FinTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0140,Enterprise_Client_140,B2B SaaS,Cold Outbound,1,1,1,62,Closed Lost,0
+COMP_0141,Enterprise_Client_141,EdTech,Referral,1,1,1,10,Closed Lost,0
+COMP_0142,Enterprise_Client_142,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0143,Enterprise_Client_143,HealthTech,Referral,1,1,1,54,Closed Lost,0
+COMP_0144,Enterprise_Client_144,EdTech,Cold Outbound,1,1,1,68,Closed Lost,0
+COMP_0145,Enterprise_Client_145,HealthTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0146,Enterprise_Client_146,FinTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0147,Enterprise_Client_147,EdTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0148,Enterprise_Client_148,HealthTech,LinkedIn Inbound,1,1,1,96,Closed Won,12000
+COMP_0149,Enterprise_Client_149,HealthTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0150,Enterprise_Client_150,HealthTech,Referral,1,1,1,47,Closed Lost,0
+COMP_0151,Enterprise_Client_151,E-commerce,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0152,Enterprise_Client_152,FinTech,Referral,1,1,1,39,Closed Lost,0
+COMP_0153,Enterprise_Client_153,FinTech,Referral,1,1,1,47,Closed Lost,0
+COMP_0154,Enterprise_Client_154,FinTech,LinkedIn Inbound,1,1,1,82,Closed Won,12000
+COMP_0155,Enterprise_Client_155,E-commerce,Referral,1,1,1,68,Closed Won,6000
+COMP_0156,Enterprise_Client_156,B2B SaaS,LinkedIn Inbound,1,1,1,46,Closed Lost,0
+COMP_0157,Enterprise_Client_157,HealthTech,Referral,1,1,1,72,Closed Won,12000
+COMP_0158,Enterprise_Client_158,EdTech,LinkedIn Inbound,1,1,1,62,Closed Won,18000
+COMP_0159,Enterprise_Client_159,EdTech,Organic Search,1,1,1,84,Closed Won,18000
+COMP_0160,Enterprise_Client_160,B2B SaaS,Referral,1,1,0,0,Closed Lost,0
+COMP_0161,Enterprise_Client_161,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0162,Enterprise_Client_162,B2B SaaS,Cold Outbound,1,1,1,42,Closed Won,12000
+COMP_0163,Enterprise_Client_163,E-commerce,Cold Outbound,1,1,1,51,Closed Won,6000
+COMP_0164,Enterprise_Client_164,E-commerce,Organic Search,1,1,1,50,Closed Won,6000
+COMP_0165,Enterprise_Client_165,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0166,Enterprise_Client_166,B2B SaaS,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0167,Enterprise_Client_167,HealthTech,LinkedIn Inbound,1,1,1,23,Closed Lost,0
+COMP_0168,Enterprise_Client_168,HealthTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0169,Enterprise_Client_169,EdTech,Referral,1,1,1,67,Closed Won,18000
+COMP_0170,Enterprise_Client_170,HealthTech,Referral,1,1,1,66,Closed Lost,0
+COMP_0171,Enterprise_Client_171,E-commerce,Organic Search,1,1,1,60,Closed Lost,0
+COMP_0172,Enterprise_Client_172,B2B SaaS,Referral,1,1,0,0,Closed Lost,0
+COMP_0173,Enterprise_Client_173,E-commerce,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0174,Enterprise_Client_174,B2B SaaS,LinkedIn Inbound,1,1,1,54,Closed Won,24000
+COMP_0175,Enterprise_Client_175,FinTech,LinkedIn Inbound,1,1,1,24,Closed Won,18000
+COMP_0176,Enterprise_Client_176,E-commerce,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0177,Enterprise_Client_177,EdTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0178,Enterprise_Client_178,E-commerce,Organic Search,1,1,1,49,Closed Lost,0
+COMP_0179,Enterprise_Client_179,B2B SaaS,LinkedIn Inbound,1,1,1,51,Closed Lost,0
+COMP_0180,Enterprise_Client_180,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0181,Enterprise_Client_181,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0182,Enterprise_Client_182,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0183,Enterprise_Client_183,B2B SaaS,Organic Search,1,1,1,39,Closed Lost,0
+COMP_0184,Enterprise_Client_184,E-commerce,Organic Search,1,1,1,55,Closed Won,18000
+COMP_0185,Enterprise_Client_185,HealthTech,LinkedIn Inbound,1,1,1,70,Closed Won,18000
+COMP_0186,Enterprise_Client_186,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0187,Enterprise_Client_187,FinTech,LinkedIn Inbound,1,1,1,107,Closed Lost,0
+COMP_0188,Enterprise_Client_188,E-commerce,Referral,1,0,0,0,Closed Lost,0
+COMP_0189,Enterprise_Client_189,E-commerce,LinkedIn Inbound,1,1,1,64,Closed Won,6000
+COMP_0190,Enterprise_Client_190,B2B SaaS,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0191,Enterprise_Client_191,FinTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0192,Enterprise_Client_192,FinTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0193,Enterprise_Client_193,B2B SaaS,Referral,1,1,1,66,Closed Lost,0
+COMP_0194,Enterprise_Client_194,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0195,Enterprise_Client_195,E-commerce,Organic Search,1,1,1,58,Closed Won,12000
+COMP_0196,Enterprise_Client_196,HealthTech,LinkedIn Inbound,1,1,1,12,Closed Lost,0
+COMP_0197,Enterprise_Client_197,FinTech,LinkedIn Inbound,1,1,1,59,Closed Won,12000
+COMP_0198,Enterprise_Client_198,EdTech,Referral,1,1,1,61,Closed Lost,0
+COMP_0199,Enterprise_Client_199,B2B SaaS,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0200,Enterprise_Client_200,EdTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0201,Enterprise_Client_201,FinTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0202,Enterprise_Client_202,E-commerce,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0203,Enterprise_Client_203,HealthTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0204,Enterprise_Client_204,HealthTech,LinkedIn Inbound,1,1,1,121,Closed Won,6000
+COMP_0205,Enterprise_Client_205,EdTech,Cold Outbound,1,1,1,55,Closed Lost,0
+COMP_0206,Enterprise_Client_206,EdTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0207,Enterprise_Client_207,E-commerce,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0208,Enterprise_Client_208,B2B SaaS,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0209,Enterprise_Client_209,B2B SaaS,Cold Outbound,1,1,1,67,Closed Won,18000
+COMP_0210,Enterprise_Client_210,EdTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0211,Enterprise_Client_211,EdTech,Referral,1,1,1,59,Closed Won,18000
+COMP_0212,Enterprise_Client_212,FinTech,Referral,1,1,1,30,Closed Won,24000
+COMP_0213,Enterprise_Client_213,B2B SaaS,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0214,Enterprise_Client_214,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0215,Enterprise_Client_215,EdTech,Referral,1,1,1,88,Closed Won,18000
+COMP_0216,Enterprise_Client_216,HealthTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0217,Enterprise_Client_217,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0218,Enterprise_Client_218,EdTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0219,Enterprise_Client_219,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0220,Enterprise_Client_220,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0221,Enterprise_Client_221,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0222,Enterprise_Client_222,E-commerce,Referral,1,1,1,78,Closed Won,24000
+COMP_0223,Enterprise_Client_223,EdTech,Organic Search,1,1,1,79,Closed Lost,0
+COMP_0224,Enterprise_Client_224,FinTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0225,Enterprise_Client_225,B2B SaaS,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0226,Enterprise_Client_226,B2B SaaS,Referral,1,0,0,0,Closed Lost,0
+COMP_0227,Enterprise_Client_227,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0228,Enterprise_Client_228,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0229,Enterprise_Client_229,HealthTech,Organic Search,1,1,1,37,Closed Lost,0
+COMP_0230,Enterprise_Client_230,HealthTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0231,Enterprise_Client_231,HealthTech,Organic Search,1,1,1,95,Closed Won,24000
+COMP_0232,Enterprise_Client_232,HealthTech,Organic Search,1,1,1,24,Closed Lost,0
+COMP_0233,Enterprise_Client_233,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0234,Enterprise_Client_234,FinTech,LinkedIn Inbound,1,1,1,74,Closed Won,12000
+COMP_0235,Enterprise_Client_235,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0236,Enterprise_Client_236,FinTech,LinkedIn Inbound,1,1,1,114,Closed Lost,0
+COMP_0237,Enterprise_Client_237,FinTech,Cold Outbound,1,1,1,35,Closed Lost,0
+COMP_0238,Enterprise_Client_238,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0239,Enterprise_Client_239,FinTech,Referral,1,1,1,45,Closed Lost,0
+COMP_0240,Enterprise_Client_240,B2B SaaS,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0241,Enterprise_Client_241,B2B SaaS,Organic Search,1,1,1,62,Closed Won,12000
+COMP_0242,Enterprise_Client_242,HealthTech,Cold Outbound,1,1,1,47,Closed Won,24000
+COMP_0243,Enterprise_Client_243,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0244,Enterprise_Client_244,E-commerce,LinkedIn Inbound,1,1,1,21,Closed Lost,0
+COMP_0245,Enterprise_Client_245,HealthTech,Cold Outbound,1,1,1,61,Closed Won,18000
+COMP_0246,Enterprise_Client_246,EdTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0247,Enterprise_Client_247,FinTech,Organic Search,1,1,1,33,Closed Lost,0
+COMP_0248,Enterprise_Client_248,B2B SaaS,Cold Outbound,1,1,1,71,Closed Won,18000
+COMP_0249,Enterprise_Client_249,E-commerce,Cold Outbound,1,1,1,37,Closed Lost,0
+COMP_0250,Enterprise_Client_250,EdTech,Cold Outbound,1,1,1,98,Closed Won,18000
+COMP_0251,Enterprise_Client_251,B2B SaaS,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0252,Enterprise_Client_252,FinTech,Cold Outbound,1,1,1,40,Closed Lost,0
+COMP_0253,Enterprise_Client_253,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0254,Enterprise_Client_254,EdTech,Referral,1,1,1,51,Closed Won,24000
+COMP_0255,Enterprise_Client_255,HealthTech,Cold Outbound,1,1,1,80,Closed Lost,0
+COMP_0256,Enterprise_Client_256,FinTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0257,Enterprise_Client_257,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0258,Enterprise_Client_258,E-commerce,LinkedIn Inbound,1,1,1,29,Closed Lost,0
+COMP_0259,Enterprise_Client_259,FinTech,Referral,1,1,1,65,Closed Won,24000
+COMP_0260,Enterprise_Client_260,E-commerce,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0261,Enterprise_Client_261,B2B SaaS,Referral,1,1,0,0,Closed Lost,0
+COMP_0262,Enterprise_Client_262,E-commerce,Referral,1,1,0,0,Closed Lost,0
+COMP_0263,Enterprise_Client_263,EdTech,Organic Search,1,1,1,92,Closed Lost,0
+COMP_0264,Enterprise_Client_264,E-commerce,Cold Outbound,1,1,1,19,Closed Lost,0
+COMP_0265,Enterprise_Client_265,EdTech,Organic Search,1,1,1,64,Closed Won,18000
+COMP_0266,Enterprise_Client_266,HealthTech,Referral,1,1,1,66,Closed Won,12000
+COMP_0267,Enterprise_Client_267,HealthTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0268,Enterprise_Client_268,HealthTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0269,Enterprise_Client_269,FinTech,Referral,1,1,1,79,Closed Won,24000
+COMP_0270,Enterprise_Client_270,FinTech,Referral,1,1,1,29,Closed Lost,0
+COMP_0271,Enterprise_Client_271,HealthTech,Referral,1,1,1,26,Closed Lost,0
+COMP_0272,Enterprise_Client_272,FinTech,Referral,1,1,1,73,Closed Won,6000
+COMP_0273,Enterprise_Client_273,FinTech,Organic Search,1,1,1,67,Closed Lost,0
+COMP_0274,Enterprise_Client_274,HealthTech,Cold Outbound,1,1,1,66,Closed Lost,0
+COMP_0275,Enterprise_Client_275,E-commerce,Referral,1,1,0,0,Closed Lost,0
+COMP_0276,Enterprise_Client_276,EdTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0277,Enterprise_Client_277,E-commerce,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0278,Enterprise_Client_278,FinTech,Cold Outbound,1,1,1,68,Closed Won,18000
+COMP_0279,Enterprise_Client_279,HealthTech,Organic Search,1,1,1,42,Closed Won,12000
+COMP_0280,Enterprise_Client_280,EdTech,LinkedIn Inbound,1,1,1,65,Closed Won,18000
+COMP_0281,Enterprise_Client_281,EdTech,LinkedIn Inbound,1,1,1,67,Closed Won,12000
+COMP_0282,Enterprise_Client_282,E-commerce,Referral,1,0,0,0,Closed Lost,0
+COMP_0283,Enterprise_Client_283,EdTech,LinkedIn Inbound,1,1,1,42,Closed Lost,0
+COMP_0284,Enterprise_Client_284,B2B SaaS,Referral,1,1,1,106,Closed Won,24000
+COMP_0285,Enterprise_Client_285,B2B SaaS,Cold Outbound,1,1,1,71,Closed Won,24000
+COMP_0286,Enterprise_Client_286,B2B SaaS,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0287,Enterprise_Client_287,EdTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0288,Enterprise_Client_288,FinTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0289,Enterprise_Client_289,EdTech,Cold Outbound,1,1,1,30,Closed Won,24000
+COMP_0290,Enterprise_Client_290,B2B SaaS,Organic Search,1,1,1,76,Closed Won,18000
+COMP_0291,Enterprise_Client_291,B2B SaaS,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0292,Enterprise_Client_292,EdTech,Cold Outbound,1,1,1,35,Closed Lost,0
+COMP_0293,Enterprise_Client_293,HealthTech,Referral,1,1,1,79,Closed Won,18000
+COMP_0294,Enterprise_Client_294,FinTech,Referral,1,1,1,88,Closed Lost,0
+COMP_0295,Enterprise_Client_295,B2B SaaS,Organic Search,1,1,1,39,Closed Lost,0
+COMP_0296,Enterprise_Client_296,E-commerce,Organic Search,1,1,1,84,Closed Won,18000
+COMP_0297,Enterprise_Client_297,FinTech,Cold Outbound,1,1,1,70,Closed Lost,0
+COMP_0298,Enterprise_Client_298,HealthTech,Organic Search,1,1,1,80,Closed Won,18000
+COMP_0299,Enterprise_Client_299,EdTech,Organic Search,1,1,1,107,Closed Lost,0
+COMP_0300,Enterprise_Client_300,E-commerce,Cold Outbound,1,1,1,53,Closed Lost,0
+COMP_0301,Enterprise_Client_301,HealthTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0302,Enterprise_Client_302,EdTech,Cold Outbound,1,1,1,41,Closed Lost,0
+COMP_0303,Enterprise_Client_303,EdTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0304,Enterprise_Client_304,HealthTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0305,Enterprise_Client_305,B2B SaaS,Organic Search,1,1,1,37,Closed Won,6000
+COMP_0306,Enterprise_Client_306,HealthTech,Referral,1,1,1,39,Closed Lost,0
+COMP_0307,Enterprise_Client_307,FinTech,LinkedIn Inbound,1,1,1,58,Closed Lost,0
+COMP_0308,Enterprise_Client_308,HealthTech,LinkedIn Inbound,1,1,1,68,Closed Lost,0
+COMP_0309,Enterprise_Client_309,HealthTech,Cold Outbound,1,1,1,66,Closed Lost,0
+COMP_0310,Enterprise_Client_310,EdTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0311,Enterprise_Client_311,FinTech,Referral,1,1,1,80,Closed Won,24000
+COMP_0312,Enterprise_Client_312,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0313,Enterprise_Client_313,B2B SaaS,Organic Search,1,1,1,60,Closed Won,12000
+COMP_0314,Enterprise_Client_314,EdTech,Referral,1,1,1,96,Closed Lost,0
+COMP_0315,Enterprise_Client_315,HealthTech,Referral,1,1,1,53,Closed Lost,0
+COMP_0316,Enterprise_Client_316,FinTech,LinkedIn Inbound,1,1,1,128,Closed Won,6000
+COMP_0317,Enterprise_Client_317,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0318,Enterprise_Client_318,HealthTech,Referral,1,1,1,75,Closed Won,24000
+COMP_0319,Enterprise_Client_319,HealthTech,LinkedIn Inbound,1,1,1,38,Closed Lost,0
+COMP_0320,Enterprise_Client_320,FinTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0321,Enterprise_Client_321,FinTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0322,Enterprise_Client_322,B2B SaaS,Referral,1,1,1,33,Closed Lost,0
+COMP_0323,Enterprise_Client_323,FinTech,Organic Search,1,1,1,72,Closed Lost,0
+COMP_0324,Enterprise_Client_324,FinTech,Cold Outbound,1,1,1,54,Closed Lost,0
+COMP_0325,Enterprise_Client_325,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0326,Enterprise_Client_326,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0327,Enterprise_Client_327,B2B SaaS,Organic Search,1,1,1,77,Closed Lost,0
+COMP_0328,Enterprise_Client_328,FinTech,Cold Outbound,1,1,1,71,Closed Lost,0
+COMP_0329,Enterprise_Client_329,B2B SaaS,Cold Outbound,1,1,1,58,Closed Lost,0
+COMP_0330,Enterprise_Client_330,B2B SaaS,Referral,1,1,1,38,Closed Lost,0
+COMP_0331,Enterprise_Client_331,B2B SaaS,Referral,1,1,1,22,Closed Lost,0
+COMP_0332,Enterprise_Client_332,FinTech,Referral,1,1,1,48,Closed Won,6000
+COMP_0333,Enterprise_Client_333,E-commerce,LinkedIn Inbound,1,1,1,81,Closed Lost,0
+COMP_0334,Enterprise_Client_334,EdTech,Cold Outbound,1,1,1,65,Closed Lost,0
+COMP_0335,Enterprise_Client_335,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0336,Enterprise_Client_336,FinTech,Organic Search,1,1,1,28,Closed Lost,0
+COMP_0337,Enterprise_Client_337,HealthTech,Referral,1,1,1,64,Closed Lost,0
+COMP_0338,Enterprise_Client_338,E-commerce,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0339,Enterprise_Client_339,EdTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0340,Enterprise_Client_340,HealthTech,Referral,1,1,1,69,Closed Won,12000
+COMP_0341,Enterprise_Client_341,EdTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0342,Enterprise_Client_342,E-commerce,Referral,1,1,1,37,Closed Lost,0
+COMP_0343,Enterprise_Client_343,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0344,Enterprise_Client_344,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0345,Enterprise_Client_345,E-commerce,LinkedIn Inbound,1,1,1,63,Closed Won,24000
+COMP_0346,Enterprise_Client_346,E-commerce,Organic Search,1,1,1,61,Closed Won,18000
+COMP_0347,Enterprise_Client_347,B2B SaaS,Referral,1,0,0,0,Closed Lost,0
+COMP_0348,Enterprise_Client_348,B2B SaaS,Referral,1,1,1,31,Closed Lost,0
+COMP_0349,Enterprise_Client_349,EdTech,LinkedIn Inbound,1,1,1,68,Closed Lost,0
+COMP_0350,Enterprise_Client_350,B2B SaaS,Cold Outbound,1,1,1,74,Closed Won,12000
+COMP_0351,Enterprise_Client_351,FinTech,Cold Outbound,1,1,1,87,Closed Won,6000
+COMP_0352,Enterprise_Client_352,B2B SaaS,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0353,Enterprise_Client_353,B2B SaaS,LinkedIn Inbound,1,1,1,86,Closed Won,6000
+COMP_0354,Enterprise_Client_354,E-commerce,Organic Search,1,1,1,25,Closed Lost,0
+COMP_0355,Enterprise_Client_355,B2B SaaS,Cold Outbound,1,1,1,36,Closed Lost,0
+COMP_0356,Enterprise_Client_356,EdTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0357,Enterprise_Client_357,FinTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0358,Enterprise_Client_358,HealthTech,Cold Outbound,1,1,1,72,Closed Won,24000
+COMP_0359,Enterprise_Client_359,E-commerce,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0360,Enterprise_Client_360,E-commerce,Cold Outbound,1,1,1,72,Closed Lost,0
+COMP_0361,Enterprise_Client_361,E-commerce,Cold Outbound,1,1,1,72,Closed Won,24000
+COMP_0362,Enterprise_Client_362,HealthTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0363,Enterprise_Client_363,E-commerce,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0364,Enterprise_Client_364,EdTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0365,Enterprise_Client_365,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0366,Enterprise_Client_366,FinTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0367,Enterprise_Client_367,FinTech,Organic Search,1,1,1,156,Closed Lost,0
+COMP_0368,Enterprise_Client_368,EdTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0369,Enterprise_Client_369,EdTech,Referral,1,1,1,74,Closed Lost,0
+COMP_0370,Enterprise_Client_370,FinTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0371,Enterprise_Client_371,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0372,Enterprise_Client_372,FinTech,Organic Search,1,1,1,88,Closed Won,12000
+COMP_0373,Enterprise_Client_373,E-commerce,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0374,Enterprise_Client_374,B2B SaaS,Cold Outbound,1,1,1,83,Closed Won,12000
+COMP_0375,Enterprise_Client_375,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0376,Enterprise_Client_376,B2B SaaS,Cold Outbound,1,1,1,76,Closed Lost,0
+COMP_0377,Enterprise_Client_377,E-commerce,Organic Search,1,1,1,52,Closed Won,12000
+COMP_0378,Enterprise_Client_378,HealthTech,Referral,1,1,1,78,Closed Won,18000
+COMP_0379,Enterprise_Client_379,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0380,Enterprise_Client_380,EdTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0381,Enterprise_Client_381,EdTech,Organic Search,1,1,1,40,Closed Lost,0
+COMP_0382,Enterprise_Client_382,B2B SaaS,Organic Search,1,1,1,54,Closed Won,18000
+COMP_0383,Enterprise_Client_383,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0384,Enterprise_Client_384,FinTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0385,Enterprise_Client_385,HealthTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0386,Enterprise_Client_386,B2B SaaS,Organic Search,1,1,1,47,Closed Lost,0
+COMP_0387,Enterprise_Client_387,FinTech,LinkedIn Inbound,1,1,1,62,Closed Won,24000
+COMP_0388,Enterprise_Client_388,FinTech,Referral,1,1,1,117,Closed Won,6000
+COMP_0389,Enterprise_Client_389,FinTech,Organic Search,1,1,1,13,Closed Lost,0
+COMP_0390,Enterprise_Client_390,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0391,Enterprise_Client_391,FinTech,Cold Outbound,1,1,1,77,Closed Won,18000
+COMP_0392,Enterprise_Client_392,FinTech,Referral,1,1,1,19,Closed Lost,0
+COMP_0393,Enterprise_Client_393,EdTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0394,Enterprise_Client_394,EdTech,LinkedIn Inbound,1,1,1,48,Closed Lost,0
+COMP_0395,Enterprise_Client_395,HealthTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0396,Enterprise_Client_396,FinTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0397,Enterprise_Client_397,EdTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0398,Enterprise_Client_398,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0399,Enterprise_Client_399,HealthTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0400,Enterprise_Client_400,FinTech,LinkedIn Inbound,1,1,1,87,Closed Lost,0
+COMP_0401,Enterprise_Client_401,FinTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0402,Enterprise_Client_402,EdTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0403,Enterprise_Client_403,B2B SaaS,Organic Search,1,1,1,61,Closed Won,24000
+COMP_0404,Enterprise_Client_404,E-commerce,Referral,1,1,1,33,Closed Lost,0
+COMP_0405,Enterprise_Client_405,B2B SaaS,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0406,Enterprise_Client_406,B2B SaaS,Referral,1,1,1,42,Closed Lost,0
+COMP_0407,Enterprise_Client_407,FinTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0408,Enterprise_Client_408,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0409,Enterprise_Client_409,FinTech,LinkedIn Inbound,1,1,1,76,Closed Won,18000
+COMP_0410,Enterprise_Client_410,HealthTech,Referral,1,1,1,41,Closed Lost,0
+COMP_0411,Enterprise_Client_411,FinTech,Organic Search,1,1,1,65,Closed Lost,0
+COMP_0412,Enterprise_Client_412,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0413,Enterprise_Client_413,HealthTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0414,Enterprise_Client_414,B2B SaaS,Referral,1,1,1,61,Closed Won,18000
+COMP_0415,Enterprise_Client_415,E-commerce,Cold Outbound,1,1,1,43,Closed Lost,0
+COMP_0416,Enterprise_Client_416,B2B SaaS,Cold Outbound,1,1,1,113,Closed Lost,0
+COMP_0417,Enterprise_Client_417,FinTech,LinkedIn Inbound,1,1,1,75,Closed Won,18000
+COMP_0418,Enterprise_Client_418,E-commerce,Cold Outbound,1,1,1,9,Closed Lost,0
+COMP_0419,Enterprise_Client_419,E-commerce,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0420,Enterprise_Client_420,E-commerce,Referral,1,1,1,64,Closed Lost,0
+COMP_0421,Enterprise_Client_421,FinTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0422,Enterprise_Client_422,EdTech,LinkedIn Inbound,1,1,1,43,Closed Won,6000
+COMP_0423,Enterprise_Client_423,B2B SaaS,Referral,1,1,1,81,Closed Won,18000
+COMP_0424,Enterprise_Client_424,E-commerce,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0425,Enterprise_Client_425,HealthTech,Cold Outbound,1,1,1,40,Closed Lost,0
+COMP_0426,Enterprise_Client_426,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0427,Enterprise_Client_427,E-commerce,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0428,Enterprise_Client_428,FinTech,Organic Search,1,1,1,57,Closed Lost,0
+COMP_0429,Enterprise_Client_429,EdTech,Referral,1,1,1,72,Closed Won,12000
+COMP_0430,Enterprise_Client_430,E-commerce,Cold Outbound,1,1,1,81,Closed Won,6000
+COMP_0431,Enterprise_Client_431,E-commerce,Cold Outbound,1,1,1,29,Closed Lost,0
+COMP_0432,Enterprise_Client_432,FinTech,Organic Search,1,1,1,51,Closed Won,12000
+COMP_0433,Enterprise_Client_433,HealthTech,Referral,1,1,1,48,Closed Lost,0
+COMP_0434,Enterprise_Client_434,B2B SaaS,Cold Outbound,1,1,1,43,Closed Lost,0
+COMP_0435,Enterprise_Client_435,FinTech,Cold Outbound,1,1,1,104,Closed Lost,0
+COMP_0436,Enterprise_Client_436,FinTech,Cold Outbound,1,1,1,70,Closed Won,18000
+COMP_0437,Enterprise_Client_437,E-commerce,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0438,Enterprise_Client_438,B2B SaaS,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0439,Enterprise_Client_439,HealthTech,Referral,1,1,1,28,Closed Won,6000
+COMP_0440,Enterprise_Client_440,HealthTech,Organic Search,1,1,1,82,Closed Lost,0
+COMP_0441,Enterprise_Client_441,FinTech,LinkedIn Inbound,1,1,1,113,Closed Won,18000
+COMP_0442,Enterprise_Client_442,E-commerce,Referral,1,1,1,85,Closed Lost,0
+COMP_0443,Enterprise_Client_443,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0444,Enterprise_Client_444,E-commerce,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0445,Enterprise_Client_445,E-commerce,LinkedIn Inbound,1,1,1,22,Closed Lost,0
+COMP_0446,Enterprise_Client_446,HealthTech,Cold Outbound,1,1,1,47,Closed Lost,0
+COMP_0447,Enterprise_Client_447,EdTech,Organic Search,1,1,1,91,Closed Lost,0
+COMP_0448,Enterprise_Client_448,HealthTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0449,Enterprise_Client_449,E-commerce,LinkedIn Inbound,1,1,1,42,Closed Lost,0
+COMP_0450,Enterprise_Client_450,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0451,Enterprise_Client_451,FinTech,Organic Search,1,1,1,71,Closed Lost,0
+COMP_0452,Enterprise_Client_452,EdTech,LinkedIn Inbound,1,1,1,79,Closed Won,6000
+COMP_0453,Enterprise_Client_453,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0454,Enterprise_Client_454,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0455,Enterprise_Client_455,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0456,Enterprise_Client_456,FinTech,LinkedIn Inbound,1,1,1,36,Closed Won,24000
+COMP_0457,Enterprise_Client_457,FinTech,Cold Outbound,1,1,1,58,Closed Lost,0
+COMP_0458,Enterprise_Client_458,EdTech,Referral,1,1,1,0,Closed Lost,0
+COMP_0459,Enterprise_Client_459,E-commerce,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0460,Enterprise_Client_460,HealthTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0461,Enterprise_Client_461,E-commerce,Organic Search,1,1,1,34,Closed Lost,0
+COMP_0462,Enterprise_Client_462,FinTech,Cold Outbound,1,1,1,53,Closed Won,12000
+COMP_0463,Enterprise_Client_463,FinTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0464,Enterprise_Client_464,FinTech,LinkedIn Inbound,1,1,1,28,Closed Lost,0
+COMP_0465,Enterprise_Client_465,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0466,Enterprise_Client_466,EdTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0467,Enterprise_Client_467,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0468,Enterprise_Client_468,HealthTech,LinkedIn Inbound,1,1,1,100,Closed Won,12000
+COMP_0469,Enterprise_Client_469,EdTech,Referral,1,1,1,24,Closed Lost,0
+COMP_0470,Enterprise_Client_470,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0471,Enterprise_Client_471,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0472,Enterprise_Client_472,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0473,Enterprise_Client_473,EdTech,Organic Search,1,1,1,48,Closed Won,6000
+COMP_0474,Enterprise_Client_474,B2B SaaS,Cold Outbound,1,1,1,63,Closed Lost,0
+COMP_0475,Enterprise_Client_475,HealthTech,LinkedIn Inbound,1,1,1,96,Closed Lost,0
+COMP_0476,Enterprise_Client_476,FinTech,Cold Outbound,1,1,1,24,Closed Lost,0
+COMP_0477,Enterprise_Client_477,FinTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0478,Enterprise_Client_478,E-commerce,LinkedIn Inbound,1,1,1,89,Closed Lost,0
+COMP_0479,Enterprise_Client_479,B2B SaaS,Referral,1,1,1,60,Closed Won,12000
+COMP_0480,Enterprise_Client_480,FinTech,LinkedIn Inbound,1,1,1,35,Closed Lost,0
+COMP_0481,Enterprise_Client_481,EdTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0482,Enterprise_Client_482,E-commerce,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0483,Enterprise_Client_483,EdTech,LinkedIn Inbound,1,1,1,71,Closed Won,6000
+COMP_0484,Enterprise_Client_484,E-commerce,Organic Search,1,1,1,64,Closed Won,6000
+COMP_0485,Enterprise_Client_485,B2B SaaS,LinkedIn Inbound,1,1,1,44,Closed Lost,0
+COMP_0486,Enterprise_Client_486,EdTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0487,Enterprise_Client_487,FinTech,Organic Search,1,1,1,61,Closed Won,6000
+COMP_0488,Enterprise_Client_488,E-commerce,Referral,1,1,1,50,Closed Won,18000
+COMP_0489,Enterprise_Client_489,HealthTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0490,Enterprise_Client_490,EdTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0491,Enterprise_Client_491,B2B SaaS,Cold Outbound,1,1,1,62,Closed Lost,0
+COMP_0492,Enterprise_Client_492,FinTech,LinkedIn Inbound,1,1,1,76,Closed Won,6000
+COMP_0493,Enterprise_Client_493,EdTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0494,Enterprise_Client_494,HealthTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0495,Enterprise_Client_495,HealthTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0496,Enterprise_Client_496,E-commerce,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0497,Enterprise_Client_497,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0498,Enterprise_Client_498,FinTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0499,Enterprise_Client_499,HealthTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0500,Enterprise_Client_500,E-commerce,Referral,1,1,1,99,Closed Won,6000
+COMP_0501,Enterprise_Client_501,FinTech,LinkedIn Inbound,1,1,1,29,Closed Lost,0
+COMP_0502,Enterprise_Client_502,HealthTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0503,Enterprise_Client_503,EdTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0504,Enterprise_Client_504,HealthTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0505,Enterprise_Client_505,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0506,Enterprise_Client_506,E-commerce,Organic Search,1,1,1,113,Closed Won,18000
+COMP_0507,Enterprise_Client_507,HealthTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0508,Enterprise_Client_508,FinTech,Organic Search,1,1,1,11,Closed Lost,0
+COMP_0509,Enterprise_Client_509,FinTech,Referral,1,1,1,56,Closed Won,24000
+COMP_0510,Enterprise_Client_510,B2B SaaS,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0511,Enterprise_Client_511,FinTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0512,Enterprise_Client_512,HealthTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0513,Enterprise_Client_513,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0514,Enterprise_Client_514,EdTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0515,Enterprise_Client_515,B2B SaaS,LinkedIn Inbound,1,1,1,74,Closed Lost,0
+COMP_0516,Enterprise_Client_516,HealthTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0517,Enterprise_Client_517,EdTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0518,Enterprise_Client_518,B2B SaaS,LinkedIn Inbound,1,1,1,67,Closed Lost,0
+COMP_0519,Enterprise_Client_519,EdTech,Referral,1,1,1,44,Closed Lost,0
+COMP_0520,Enterprise_Client_520,E-commerce,LinkedIn Inbound,1,1,1,54,Closed Lost,0
+COMP_0521,Enterprise_Client_521,HealthTech,LinkedIn Inbound,1,1,1,47,Closed Won,12000
+COMP_0522,Enterprise_Client_522,FinTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0523,Enterprise_Client_523,EdTech,Referral,1,1,1,45,Closed Lost,0
+COMP_0524,Enterprise_Client_524,HealthTech,LinkedIn Inbound,1,1,1,81,Closed Lost,0
+COMP_0525,Enterprise_Client_525,E-commerce,Organic Search,1,1,1,68,Closed Won,12000
+COMP_0526,Enterprise_Client_526,EdTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0527,Enterprise_Client_527,B2B SaaS,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0528,Enterprise_Client_528,B2B SaaS,Referral,1,1,1,42,Closed Lost,0
+COMP_0529,Enterprise_Client_529,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0530,Enterprise_Client_530,E-commerce,Referral,1,1,1,82,Closed Won,18000
+COMP_0531,Enterprise_Client_531,EdTech,LinkedIn Inbound,1,1,1,67,Closed Lost,0
+COMP_0532,Enterprise_Client_532,B2B SaaS,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0533,Enterprise_Client_533,FinTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0534,Enterprise_Client_534,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0535,Enterprise_Client_535,B2B SaaS,Referral,1,1,1,80,Closed Lost,0
+COMP_0536,Enterprise_Client_536,E-commerce,Referral,1,1,1,75,Closed Won,6000
+COMP_0537,Enterprise_Client_537,FinTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0538,Enterprise_Client_538,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0539,Enterprise_Client_539,E-commerce,Referral,1,1,1,39,Closed Lost,0
+COMP_0540,Enterprise_Client_540,FinTech,Organic Search,1,1,1,45,Closed Lost,0
+COMP_0541,Enterprise_Client_541,B2B SaaS,Referral,1,1,0,0,Closed Lost,0
+COMP_0542,Enterprise_Client_542,E-commerce,LinkedIn Inbound,1,1,1,78,Closed Won,24000
+COMP_0543,Enterprise_Client_543,FinTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0544,Enterprise_Client_544,FinTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0545,Enterprise_Client_545,HealthTech,Organic Search,1,1,1,75,Closed Won,24000
+COMP_0546,Enterprise_Client_546,EdTech,LinkedIn Inbound,1,1,1,59,Closed Won,12000
+COMP_0547,Enterprise_Client_547,E-commerce,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0548,Enterprise_Client_548,B2B SaaS,Cold Outbound,1,1,1,62,Closed Won,6000
+COMP_0549,Enterprise_Client_549,HealthTech,Referral,1,1,1,91,Closed Won,12000
+COMP_0550,Enterprise_Client_550,B2B SaaS,Referral,1,1,1,45,Closed Won,6000
+COMP_0551,Enterprise_Client_551,E-commerce,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0552,Enterprise_Client_552,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0553,Enterprise_Client_553,B2B SaaS,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0554,Enterprise_Client_554,B2B SaaS,Cold Outbound,1,1,1,73,Closed Won,24000
+COMP_0555,Enterprise_Client_555,HealthTech,Referral,1,1,1,54,Closed Won,12000
+COMP_0556,Enterprise_Client_556,FinTech,Referral,1,1,1,54,Closed Lost,0
+COMP_0557,Enterprise_Client_557,B2B SaaS,Referral,1,1,1,87,Closed Lost,0
+COMP_0558,Enterprise_Client_558,FinTech,Cold Outbound,1,1,1,80,Closed Won,12000
+COMP_0559,Enterprise_Client_559,E-commerce,Organic Search,1,1,1,80,Closed Won,24000
+COMP_0560,Enterprise_Client_560,HealthTech,LinkedIn Inbound,1,1,1,92,Closed Won,12000
+COMP_0561,Enterprise_Client_561,FinTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0562,Enterprise_Client_562,HealthTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0563,Enterprise_Client_563,HealthTech,Referral,1,1,1,60,Closed Won,6000
+COMP_0564,Enterprise_Client_564,B2B SaaS,Referral,1,1,1,77,Closed Won,18000
+COMP_0565,Enterprise_Client_565,EdTech,Referral,1,1,1,52,Closed Won,18000
+COMP_0566,Enterprise_Client_566,E-commerce,Referral,1,1,1,68,Closed Won,24000
+COMP_0567,Enterprise_Client_567,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0568,Enterprise_Client_568,HealthTech,Organic Search,1,1,1,56,Closed Won,18000
+COMP_0569,Enterprise_Client_569,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0570,Enterprise_Client_570,E-commerce,Referral,1,1,1,62,Closed Won,6000
+COMP_0571,Enterprise_Client_571,E-commerce,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0572,Enterprise_Client_572,E-commerce,Organic Search,1,1,1,74,Closed Won,6000
+COMP_0573,Enterprise_Client_573,FinTech,Organic Search,1,1,1,39,Closed Lost,0
+COMP_0574,Enterprise_Client_574,FinTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0575,Enterprise_Client_575,B2B SaaS,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0576,Enterprise_Client_576,HealthTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0577,Enterprise_Client_577,FinTech,LinkedIn Inbound,1,1,1,112,Closed Lost,0
+COMP_0578,Enterprise_Client_578,B2B SaaS,Referral,1,1,1,34,Closed Won,18000
+COMP_0579,Enterprise_Client_579,EdTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0580,Enterprise_Client_580,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0581,Enterprise_Client_581,B2B SaaS,Referral,1,1,1,29,Closed Lost,0
+COMP_0582,Enterprise_Client_582,FinTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0583,Enterprise_Client_583,E-commerce,Referral,1,1,1,88,Closed Won,18000
+COMP_0584,Enterprise_Client_584,HealthTech,Referral,1,1,1,79,Closed Lost,0
+COMP_0585,Enterprise_Client_585,HealthTech,Referral,1,1,1,75,Closed Won,6000
+COMP_0586,Enterprise_Client_586,B2B SaaS,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0587,Enterprise_Client_587,B2B SaaS,LinkedIn Inbound,1,1,1,75,Closed Lost,0
+COMP_0588,Enterprise_Client_588,HealthTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0589,Enterprise_Client_589,B2B SaaS,Referral,1,1,1,59,Closed Won,18000
+COMP_0590,Enterprise_Client_590,HealthTech,Cold Outbound,1,1,1,37,Closed Lost,0
+COMP_0591,Enterprise_Client_591,EdTech,Organic Search,1,1,1,61,Closed Won,24000
+COMP_0592,Enterprise_Client_592,E-commerce,Cold Outbound,1,1,1,43,Closed Lost,0
+COMP_0593,Enterprise_Client_593,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0594,Enterprise_Client_594,EdTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0595,Enterprise_Client_595,HealthTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0596,Enterprise_Client_596,HealthTech,Cold Outbound,1,1,1,84,Closed Lost,0
+COMP_0597,Enterprise_Client_597,FinTech,Cold Outbound,1,1,1,56,Closed Won,6000
+COMP_0598,Enterprise_Client_598,HealthTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0599,Enterprise_Client_599,HealthTech,Organic Search,1,1,1,39,Closed Won,6000
+COMP_0600,Enterprise_Client_600,EdTech,Referral,1,1,1,51,Closed Lost,0
+COMP_0601,Enterprise_Client_601,FinTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0602,Enterprise_Client_602,FinTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0603,Enterprise_Client_603,FinTech,LinkedIn Inbound,1,1,1,70,Closed Won,24000
+COMP_0604,Enterprise_Client_604,FinTech,Referral,1,1,1,45,Closed Lost,0
+COMP_0605,Enterprise_Client_605,FinTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0606,Enterprise_Client_606,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0607,Enterprise_Client_607,HealthTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0608,Enterprise_Client_608,HealthTech,Organic Search,1,1,1,39,Closed Lost,0
+COMP_0609,Enterprise_Client_609,EdTech,Referral,1,1,1,66,Closed Won,6000
+COMP_0610,Enterprise_Client_610,FinTech,Organic Search,1,1,1,66,Closed Won,6000
+COMP_0611,Enterprise_Client_611,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0612,Enterprise_Client_612,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0613,Enterprise_Client_613,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0614,Enterprise_Client_614,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0615,Enterprise_Client_615,HealthTech,Organic Search,1,1,1,47,Closed Won,24000
+COMP_0616,Enterprise_Client_616,HealthTech,Referral,1,1,1,48,Closed Lost,0
+COMP_0617,Enterprise_Client_617,EdTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0618,Enterprise_Client_618,FinTech,Referral,1,1,1,65,Closed Won,24000
+COMP_0619,Enterprise_Client_619,EdTech,Organic Search,1,1,1,23,Closed Lost,0
+COMP_0620,Enterprise_Client_620,FinTech,Cold Outbound,1,1,1,24,Closed Lost,0
+COMP_0621,Enterprise_Client_621,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0622,Enterprise_Client_622,E-commerce,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0623,Enterprise_Client_623,E-commerce,Cold Outbound,1,1,1,42,Closed Lost,0
+COMP_0624,Enterprise_Client_624,FinTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0625,Enterprise_Client_625,B2B SaaS,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0626,Enterprise_Client_626,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0627,Enterprise_Client_627,EdTech,Referral,1,1,1,54,Closed Won,24000
+COMP_0628,Enterprise_Client_628,E-commerce,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0629,Enterprise_Client_629,HealthTech,LinkedIn Inbound,1,1,1,67,Closed Won,24000
+COMP_0630,Enterprise_Client_630,E-commerce,Referral,1,0,0,0,Closed Lost,0
+COMP_0631,Enterprise_Client_631,FinTech,LinkedIn Inbound,1,1,1,96,Closed Won,18000
+COMP_0632,Enterprise_Client_632,B2B SaaS,Referral,1,1,1,81,Closed Lost,0
+COMP_0633,Enterprise_Client_633,EdTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0634,Enterprise_Client_634,HealthTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0635,Enterprise_Client_635,B2B SaaS,Cold Outbound,1,1,1,56,Closed Won,12000
+COMP_0636,Enterprise_Client_636,HealthTech,Cold Outbound,1,1,1,59,Closed Won,12000
+COMP_0637,Enterprise_Client_637,EdTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0638,Enterprise_Client_638,FinTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0639,Enterprise_Client_639,HealthTech,Referral,1,1,1,34,Closed Lost,0
+COMP_0640,Enterprise_Client_640,HealthTech,LinkedIn Inbound,1,1,1,59,Closed Won,6000
+COMP_0641,Enterprise_Client_641,B2B SaaS,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0642,Enterprise_Client_642,E-commerce,LinkedIn Inbound,1,1,1,52,Closed Won,12000
+COMP_0643,Enterprise_Client_643,EdTech,Referral,1,1,1,68,Closed Lost,0
+COMP_0644,Enterprise_Client_644,HealthTech,LinkedIn Inbound,1,1,1,39,Closed Lost,0
+COMP_0645,Enterprise_Client_645,B2B SaaS,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0646,Enterprise_Client_646,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0647,Enterprise_Client_647,E-commerce,Referral,1,1,1,72,Closed Won,6000
+COMP_0648,Enterprise_Client_648,B2B SaaS,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0649,Enterprise_Client_649,HealthTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0650,Enterprise_Client_650,HealthTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0651,Enterprise_Client_651,FinTech,Referral,1,1,1,98,Closed Won,18000
+COMP_0652,Enterprise_Client_652,B2B SaaS,LinkedIn Inbound,1,1,1,57,Closed Won,24000
+COMP_0653,Enterprise_Client_653,B2B SaaS,Referral,1,1,1,70,Closed Lost,0
+COMP_0654,Enterprise_Client_654,HealthTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0655,Enterprise_Client_655,B2B SaaS,Organic Search,1,1,1,77,Closed Won,18000
+COMP_0656,Enterprise_Client_656,HealthTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0657,Enterprise_Client_657,B2B SaaS,Referral,1,1,1,49,Closed Won,18000
+COMP_0658,Enterprise_Client_658,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0659,Enterprise_Client_659,B2B SaaS,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0660,Enterprise_Client_660,E-commerce,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0661,Enterprise_Client_661,EdTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0662,Enterprise_Client_662,FinTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0663,Enterprise_Client_663,B2B SaaS,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0664,Enterprise_Client_664,FinTech,LinkedIn Inbound,1,1,1,65,Closed Won,24000
+COMP_0665,Enterprise_Client_665,FinTech,Referral,1,1,1,60,Closed Won,18000
+COMP_0666,Enterprise_Client_666,HealthTech,Organic Search,1,1,1,62,Closed Won,12000
+COMP_0667,Enterprise_Client_667,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0668,Enterprise_Client_668,FinTech,Referral,1,1,1,40,Closed Lost,0
+COMP_0669,Enterprise_Client_669,HealthTech,LinkedIn Inbound,1,1,1,60,Closed Lost,0
+COMP_0670,Enterprise_Client_670,B2B SaaS,Referral,1,0,0,0,Closed Lost,0
+COMP_0671,Enterprise_Client_671,HealthTech,LinkedIn Inbound,1,1,1,72,Closed Won,24000
+COMP_0672,Enterprise_Client_672,HealthTech,Cold Outbound,1,1,1,96,Closed Won,6000
+COMP_0673,Enterprise_Client_673,HealthTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0674,Enterprise_Client_674,EdTech,Cold Outbound,1,1,1,83,Closed Lost,0
+COMP_0675,Enterprise_Client_675,E-commerce,LinkedIn Inbound,1,1,1,113,Closed Won,6000
+COMP_0676,Enterprise_Client_676,B2B SaaS,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0677,Enterprise_Client_677,B2B SaaS,Organic Search,1,1,1,40,Closed Lost,0
+COMP_0678,Enterprise_Client_678,EdTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0679,Enterprise_Client_679,EdTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0680,Enterprise_Client_680,HealthTech,Organic Search,1,1,1,81,Closed Won,18000
+COMP_0681,Enterprise_Client_681,HealthTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0682,Enterprise_Client_682,FinTech,Referral,1,1,1,64,Closed Won,12000
+COMP_0683,Enterprise_Client_683,E-commerce,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0684,Enterprise_Client_684,EdTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0685,Enterprise_Client_685,EdTech,LinkedIn Inbound,1,1,1,114,Closed Won,18000
+COMP_0686,Enterprise_Client_686,E-commerce,Referral,1,1,1,39,Closed Lost,0
+COMP_0687,Enterprise_Client_687,E-commerce,Referral,1,1,1,39,Closed Lost,0
+COMP_0688,Enterprise_Client_688,B2B SaaS,Cold Outbound,1,1,1,45,Closed Lost,0
+COMP_0689,Enterprise_Client_689,EdTech,Referral,1,1,1,6,Closed Won,6000
+COMP_0690,Enterprise_Client_690,E-commerce,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0691,Enterprise_Client_691,FinTech,Organic Search,1,1,1,46,Closed Won,12000
+COMP_0692,Enterprise_Client_692,EdTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0693,Enterprise_Client_693,HealthTech,Organic Search,1,1,1,41,Closed Lost,0
+COMP_0694,Enterprise_Client_694,E-commerce,Referral,1,0,0,0,Closed Lost,0
+COMP_0695,Enterprise_Client_695,HealthTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0696,Enterprise_Client_696,E-commerce,Cold Outbound,1,1,1,63,Closed Won,18000
+COMP_0697,Enterprise_Client_697,FinTech,Cold Outbound,1,1,1,68,Closed Won,12000
+COMP_0698,Enterprise_Client_698,FinTech,Referral,1,1,1,106,Closed Won,18000
+COMP_0699,Enterprise_Client_699,HealthTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0700,Enterprise_Client_700,E-commerce,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0701,Enterprise_Client_701,E-commerce,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0702,Enterprise_Client_702,FinTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0703,Enterprise_Client_703,EdTech,Organic Search,1,1,1,83,Closed Won,12000
+COMP_0704,Enterprise_Client_704,E-commerce,Cold Outbound,1,1,1,45,Closed Lost,0
+COMP_0705,Enterprise_Client_705,HealthTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0706,Enterprise_Client_706,B2B SaaS,Referral,1,1,1,37,Closed Lost,0
+COMP_0707,Enterprise_Client_707,EdTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0708,Enterprise_Client_708,E-commerce,Cold Outbound,1,1,1,72,Closed Lost,0
+COMP_0709,Enterprise_Client_709,B2B SaaS,Organic Search,1,1,1,26,Closed Lost,0
+COMP_0710,Enterprise_Client_710,B2B SaaS,LinkedIn Inbound,1,1,1,105,Closed Won,18000
+COMP_0711,Enterprise_Client_711,E-commerce,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0712,Enterprise_Client_712,B2B SaaS,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0713,Enterprise_Client_713,EdTech,LinkedIn Inbound,1,1,1,89,Closed Lost,0
+COMP_0714,Enterprise_Client_714,B2B SaaS,Referral,1,1,1,48,Closed Lost,0
+COMP_0715,Enterprise_Client_715,E-commerce,Cold Outbound,1,1,1,17,Closed Lost,0
+COMP_0716,Enterprise_Client_716,B2B SaaS,Referral,1,1,1,93,Closed Won,24000
+COMP_0717,Enterprise_Client_717,FinTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0718,Enterprise_Client_718,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0719,Enterprise_Client_719,B2B SaaS,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0720,Enterprise_Client_720,E-commerce,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0721,Enterprise_Client_721,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0722,Enterprise_Client_722,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0723,Enterprise_Client_723,E-commerce,LinkedIn Inbound,1,1,1,57,Closed Lost,0
+COMP_0724,Enterprise_Client_724,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0725,Enterprise_Client_725,B2B SaaS,Cold Outbound,1,1,1,90,Closed Won,12000
+COMP_0726,Enterprise_Client_726,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0727,Enterprise_Client_727,FinTech,LinkedIn Inbound,1,1,1,20,Closed Lost,0
+COMP_0728,Enterprise_Client_728,E-commerce,Organic Search,1,1,1,45,Closed Lost,0
+COMP_0729,Enterprise_Client_729,HealthTech,LinkedIn Inbound,1,1,1,60,Closed Won,6000
+COMP_0730,Enterprise_Client_730,B2B SaaS,Organic Search,1,1,1,61,Closed Lost,0
+COMP_0731,Enterprise_Client_731,EdTech,LinkedIn Inbound,1,1,1,48,Closed Lost,0
+COMP_0732,Enterprise_Client_732,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0733,Enterprise_Client_733,EdTech,Cold Outbound,1,1,1,75,Closed Lost,0
+COMP_0734,Enterprise_Client_734,HealthTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0735,Enterprise_Client_735,FinTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0736,Enterprise_Client_736,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0737,Enterprise_Client_737,FinTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0738,Enterprise_Client_738,E-commerce,LinkedIn Inbound,1,1,1,33,Closed Lost,0
+COMP_0739,Enterprise_Client_739,B2B SaaS,LinkedIn Inbound,1,1,1,56,Closed Won,24000
+COMP_0740,Enterprise_Client_740,EdTech,Organic Search,1,1,1,63,Closed Won,12000
+COMP_0741,Enterprise_Client_741,HealthTech,LinkedIn Inbound,1,1,1,72,Closed Lost,0
+COMP_0742,Enterprise_Client_742,EdTech,Referral,1,1,1,77,Closed Lost,0
+COMP_0743,Enterprise_Client_743,FinTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0744,Enterprise_Client_744,EdTech,Cold Outbound,1,1,1,31,Closed Lost,0
+COMP_0745,Enterprise_Client_745,E-commerce,Referral,1,1,1,21,Closed Lost,0
+COMP_0746,Enterprise_Client_746,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0747,Enterprise_Client_747,HealthTech,Referral,1,1,1,91,Closed Won,12000
+COMP_0748,Enterprise_Client_748,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0749,Enterprise_Client_749,B2B SaaS,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0750,Enterprise_Client_750,E-commerce,LinkedIn Inbound,1,1,1,68,Closed Won,18000
+COMP_0751,Enterprise_Client_751,B2B SaaS,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0752,Enterprise_Client_752,E-commerce,Referral,1,1,1,41,Closed Lost,0
+COMP_0753,Enterprise_Client_753,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0754,Enterprise_Client_754,FinTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0755,Enterprise_Client_755,FinTech,LinkedIn Inbound,1,1,1,98,Closed Won,12000
+COMP_0756,Enterprise_Client_756,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0757,Enterprise_Client_757,HealthTech,LinkedIn Inbound,1,1,1,62,Closed Lost,0
+COMP_0758,Enterprise_Client_758,B2B SaaS,Organic Search,1,1,1,89,Closed Won,18000
+COMP_0759,Enterprise_Client_759,EdTech,Cold Outbound,1,1,1,61,Closed Lost,0
+COMP_0760,Enterprise_Client_760,B2B SaaS,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0761,Enterprise_Client_761,EdTech,Organic Search,1,1,1,111,Closed Won,24000
+COMP_0762,Enterprise_Client_762,E-commerce,LinkedIn Inbound,1,1,1,103,Closed Won,12000
+COMP_0763,Enterprise_Client_763,B2B SaaS,Referral,1,1,0,0,Closed Lost,0
+COMP_0764,Enterprise_Client_764,EdTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0765,Enterprise_Client_765,E-commerce,Referral,1,0,0,0,Closed Lost,0
+COMP_0766,Enterprise_Client_766,EdTech,LinkedIn Inbound,1,1,1,53,Closed Won,6000
+COMP_0767,Enterprise_Client_767,FinTech,Cold Outbound,1,1,1,84,Closed Lost,0
+COMP_0768,Enterprise_Client_768,B2B SaaS,Cold Outbound,1,1,1,76,Closed Lost,0
+COMP_0769,Enterprise_Client_769,B2B SaaS,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0770,Enterprise_Client_770,EdTech,Organic Search,1,1,1,94,Closed Won,12000
+COMP_0771,Enterprise_Client_771,B2B SaaS,Cold Outbound,1,1,1,35,Closed Lost,0
+COMP_0772,Enterprise_Client_772,E-commerce,Cold Outbound,1,1,1,77,Closed Lost,0
+COMP_0773,Enterprise_Client_773,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0774,Enterprise_Client_774,EdTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0775,Enterprise_Client_775,B2B SaaS,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0776,Enterprise_Client_776,HealthTech,LinkedIn Inbound,1,1,1,86,Closed Won,12000
+COMP_0777,Enterprise_Client_777,HealthTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0778,Enterprise_Client_778,HealthTech,Organic Search,1,1,1,16,Closed Lost,0
+COMP_0779,Enterprise_Client_779,EdTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0780,Enterprise_Client_780,HealthTech,Organic Search,1,1,1,30,Closed Lost,0
+COMP_0781,Enterprise_Client_781,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0782,Enterprise_Client_782,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0783,Enterprise_Client_783,E-commerce,Referral,1,1,0,0,Closed Lost,0
+COMP_0784,Enterprise_Client_784,B2B SaaS,Referral,1,1,0,0,Closed Lost,0
+COMP_0785,Enterprise_Client_785,HealthTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0786,Enterprise_Client_786,EdTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0787,Enterprise_Client_787,FinTech,LinkedIn Inbound,1,1,1,9,Closed Lost,0
+COMP_0788,Enterprise_Client_788,FinTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0789,Enterprise_Client_789,HealthTech,Organic Search,1,1,1,53,Closed Won,24000
+COMP_0790,Enterprise_Client_790,FinTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0791,Enterprise_Client_791,B2B SaaS,Organic Search,1,1,1,77,Closed Lost,0
+COMP_0792,Enterprise_Client_792,EdTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0793,Enterprise_Client_793,B2B SaaS,Referral,1,1,1,97,Closed Won,18000
+COMP_0794,Enterprise_Client_794,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0795,Enterprise_Client_795,HealthTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0796,Enterprise_Client_796,E-commerce,Organic Search,1,1,1,61,Closed Won,12000
+COMP_0797,Enterprise_Client_797,B2B SaaS,LinkedIn Inbound,1,1,1,100,Closed Won,6000
+COMP_0798,Enterprise_Client_798,HealthTech,Cold Outbound,1,1,1,25,Closed Lost,0
+COMP_0799,Enterprise_Client_799,EdTech,Organic Search,1,1,1,17,Closed Won,24000
+COMP_0800,Enterprise_Client_800,E-commerce,LinkedIn Inbound,1,1,1,58,Closed Won,24000
+COMP_0801,Enterprise_Client_801,B2B SaaS,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0802,Enterprise_Client_802,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0803,Enterprise_Client_803,B2B SaaS,Referral,1,1,1,69,Closed Won,24000
+COMP_0804,Enterprise_Client_804,E-commerce,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0805,Enterprise_Client_805,E-commerce,Referral,1,1,0,0,Closed Lost,0
+COMP_0806,Enterprise_Client_806,B2B SaaS,Cold Outbound,1,1,1,59,Closed Lost,0
+COMP_0807,Enterprise_Client_807,E-commerce,Organic Search,1,1,1,8,Closed Won,12000
+COMP_0808,Enterprise_Client_808,B2B SaaS,Referral,1,1,1,57,Closed Lost,0
+COMP_0809,Enterprise_Client_809,HealthTech,Cold Outbound,1,1,1,27,Closed Lost,0
+COMP_0810,Enterprise_Client_810,FinTech,Referral,1,1,1,76,Closed Won,24000
+COMP_0811,Enterprise_Client_811,E-commerce,Organic Search,1,1,1,69,Closed Won,6000
+COMP_0812,Enterprise_Client_812,HealthTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0813,Enterprise_Client_813,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0814,Enterprise_Client_814,HealthTech,Referral,1,1,1,36,Closed Lost,0
+COMP_0815,Enterprise_Client_815,HealthTech,Organic Search,1,1,1,47,Closed Won,24000
+COMP_0816,Enterprise_Client_816,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0817,Enterprise_Client_817,B2B SaaS,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0818,Enterprise_Client_818,EdTech,Referral,1,1,1,33,Closed Lost,0
+COMP_0819,Enterprise_Client_819,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0820,Enterprise_Client_820,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0821,Enterprise_Client_821,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0822,Enterprise_Client_822,E-commerce,Organic Search,1,1,1,58,Closed Won,18000
+COMP_0823,Enterprise_Client_823,FinTech,Referral,1,1,1,83,Closed Lost,0
+COMP_0824,Enterprise_Client_824,EdTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0825,Enterprise_Client_825,FinTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0826,Enterprise_Client_826,FinTech,Referral,1,1,1,35,Closed Lost,0
+COMP_0827,Enterprise_Client_827,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0828,Enterprise_Client_828,E-commerce,Referral,1,1,1,72,Closed Lost,0
+COMP_0829,Enterprise_Client_829,HealthTech,LinkedIn Inbound,1,1,1,46,Closed Won,18000
+COMP_0830,Enterprise_Client_830,E-commerce,Cold Outbound,1,1,1,40,Closed Won,6000
+COMP_0831,Enterprise_Client_831,HealthTech,LinkedIn Inbound,1,1,1,57,Closed Lost,0
+COMP_0832,Enterprise_Client_832,B2B SaaS,Cold Outbound,1,1,1,34,Closed Lost,0
+COMP_0833,Enterprise_Client_833,HealthTech,Cold Outbound,1,1,1,46,Closed Lost,0
+COMP_0834,Enterprise_Client_834,EdTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0835,Enterprise_Client_835,FinTech,Organic Search,1,1,1,30,Closed Lost,0
+COMP_0836,Enterprise_Client_836,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0837,Enterprise_Client_837,E-commerce,Cold Outbound,1,1,1,109,Closed Won,18000
+COMP_0838,Enterprise_Client_838,FinTech,Organic Search,1,1,1,60,Closed Lost,0
+COMP_0839,Enterprise_Client_839,HealthTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0840,Enterprise_Client_840,B2B SaaS,Organic Search,1,1,1,42,Closed Won,12000
+COMP_0841,Enterprise_Client_841,HealthTech,LinkedIn Inbound,1,1,1,65,Closed Won,18000
+COMP_0842,Enterprise_Client_842,EdTech,Referral,1,1,1,57,Closed Won,24000
+COMP_0843,Enterprise_Client_843,EdTech,Referral,1,1,1,54,Closed Won,24000
+COMP_0844,Enterprise_Client_844,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0845,Enterprise_Client_845,FinTech,Organic Search,1,1,1,75,Closed Won,24000
+COMP_0846,Enterprise_Client_846,E-commerce,Referral,1,0,0,0,Closed Lost,0
+COMP_0847,Enterprise_Client_847,B2B SaaS,Organic Search,1,1,1,78,Closed Lost,0
+COMP_0848,Enterprise_Client_848,E-commerce,Referral,1,0,0,0,Closed Lost,0
+COMP_0849,Enterprise_Client_849,HealthTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0850,Enterprise_Client_850,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0851,Enterprise_Client_851,B2B SaaS,LinkedIn Inbound,1,1,1,46,Closed Lost,0
+COMP_0852,Enterprise_Client_852,E-commerce,Organic Search,1,1,1,45,Closed Won,6000
+COMP_0853,Enterprise_Client_853,EdTech,Referral,1,1,1,53,Closed Lost,0
+COMP_0854,Enterprise_Client_854,EdTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0855,Enterprise_Client_855,EdTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0856,Enterprise_Client_856,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0857,Enterprise_Client_857,B2B SaaS,Referral,1,0,0,0,Closed Lost,0
+COMP_0858,Enterprise_Client_858,HealthTech,Cold Outbound,1,1,1,2,Closed Won,12000
+COMP_0859,Enterprise_Client_859,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0860,Enterprise_Client_860,FinTech,Referral,1,1,1,22,Closed Lost,0
+COMP_0861,Enterprise_Client_861,E-commerce,Referral,1,1,1,94,Closed Won,12000
+COMP_0862,Enterprise_Client_862,E-commerce,Referral,1,1,0,0,Closed Lost,0
+COMP_0863,Enterprise_Client_863,FinTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0864,Enterprise_Client_864,B2B SaaS,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0865,Enterprise_Client_865,HealthTech,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0866,Enterprise_Client_866,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0867,Enterprise_Client_867,HealthTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0868,Enterprise_Client_868,HealthTech,Cold Outbound,1,1,0,0,Closed Lost,0
+COMP_0869,Enterprise_Client_869,FinTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0870,Enterprise_Client_870,HealthTech,Cold Outbound,1,1,1,101,Closed Won,6000
+COMP_0871,Enterprise_Client_871,B2B SaaS,Cold Outbound,1,1,1,53,Closed Won,12000
+COMP_0872,Enterprise_Client_872,B2B SaaS,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0873,Enterprise_Client_873,EdTech,Organic Search,1,1,1,74,Closed Lost,0
+COMP_0874,Enterprise_Client_874,HealthTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0875,Enterprise_Client_875,E-commerce,Organic Search,1,1,1,67,Closed Won,18000
+COMP_0876,Enterprise_Client_876,HealthTech,Referral,1,1,1,136,Closed Won,24000
+COMP_0877,Enterprise_Client_877,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0878,Enterprise_Client_878,E-commerce,LinkedIn Inbound,1,1,1,87,Closed Lost,0
+COMP_0879,Enterprise_Client_879,B2B SaaS,Referral,1,1,1,56,Closed Won,6000
+COMP_0880,Enterprise_Client_880,B2B SaaS,Referral,1,1,1,36,Closed Lost,0
+COMP_0881,Enterprise_Client_881,E-commerce,Referral,1,1,1,19,Closed Lost,0
+COMP_0882,Enterprise_Client_882,E-commerce,Organic Search,1,1,1,65,Closed Won,6000
+COMP_0883,Enterprise_Client_883,EdTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0884,Enterprise_Client_884,HealthTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0885,Enterprise_Client_885,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0886,Enterprise_Client_886,FinTech,Referral,1,1,1,41,Closed Lost,0
+COMP_0887,Enterprise_Client_887,E-commerce,Organic Search,1,1,1,24,Closed Lost,0
+COMP_0888,Enterprise_Client_888,B2B SaaS,Cold Outbound,1,1,1,43,Closed Won,6000
+COMP_0889,Enterprise_Client_889,FinTech,Organic Search,1,1,1,32,Closed Lost,0
+COMP_0890,Enterprise_Client_890,B2B SaaS,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0891,Enterprise_Client_891,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0892,Enterprise_Client_892,E-commerce,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0893,Enterprise_Client_893,HealthTech,Referral,1,1,1,102,Closed Won,12000
+COMP_0894,Enterprise_Client_894,FinTech,LinkedIn Inbound,1,1,1,82,Closed Lost,0
+COMP_0895,Enterprise_Client_895,E-commerce,Referral,1,1,1,59,Closed Won,18000
+COMP_0896,Enterprise_Client_896,EdTech,LinkedIn Inbound,1,1,1,96,Closed Won,18000
+COMP_0897,Enterprise_Client_897,E-commerce,Referral,1,0,0,0,Closed Lost,0
+COMP_0898,Enterprise_Client_898,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0899,Enterprise_Client_899,HealthTech,LinkedIn Inbound,1,1,1,61,Closed Won,24000
+COMP_0900,Enterprise_Client_900,E-commerce,Cold Outbound,1,1,1,38,Closed Won,18000
+COMP_0901,Enterprise_Client_901,EdTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0902,Enterprise_Client_902,HealthTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0903,Enterprise_Client_903,FinTech,LinkedIn Inbound,1,1,1,98,Closed Lost,0
+COMP_0904,Enterprise_Client_904,B2B SaaS,LinkedIn Inbound,1,1,1,73,Closed Won,6000
+COMP_0905,Enterprise_Client_905,EdTech,Cold Outbound,1,1,1,34,Closed Won,24000
+COMP_0906,Enterprise_Client_906,FinTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0907,Enterprise_Client_907,B2B SaaS,Organic Search,1,1,1,55,Closed Won,12000
+COMP_0908,Enterprise_Client_908,HealthTech,Referral,1,1,1,38,Closed Lost,0
+COMP_0909,Enterprise_Client_909,HealthTech,Referral,1,1,1,25,Closed Lost,0
+COMP_0910,Enterprise_Client_910,EdTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0911,Enterprise_Client_911,EdTech,Referral,1,1,1,83,Closed Won,12000
+COMP_0912,Enterprise_Client_912,EdTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0913,Enterprise_Client_913,B2B SaaS,Referral,1,1,1,107,Closed Lost,0
+COMP_0914,Enterprise_Client_914,E-commerce,Cold Outbound,1,1,1,25,Closed Lost,0
+COMP_0915,Enterprise_Client_915,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0916,Enterprise_Client_916,HealthTech,Organic Search,1,1,1,74,Closed Won,6000
+COMP_0917,Enterprise_Client_917,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0918,Enterprise_Client_918,HealthTech,Cold Outbound,1,1,1,43,Closed Lost,0
+COMP_0919,Enterprise_Client_919,FinTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0920,Enterprise_Client_920,B2B SaaS,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0921,Enterprise_Client_921,B2B SaaS,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0922,Enterprise_Client_922,B2B SaaS,Referral,1,1,1,47,Closed Lost,0
+COMP_0923,Enterprise_Client_923,B2B SaaS,Referral,1,0,0,0,Closed Lost,0
+COMP_0924,Enterprise_Client_924,E-commerce,Referral,1,1,1,45,Closed Lost,0
+COMP_0925,Enterprise_Client_925,B2B SaaS,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0926,Enterprise_Client_926,E-commerce,Cold Outbound,1,1,1,38,Closed Lost,0
+COMP_0927,Enterprise_Client_927,FinTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0928,Enterprise_Client_928,EdTech,Cold Outbound,1,1,1,61,Closed Won,18000
+COMP_0929,Enterprise_Client_929,FinTech,Cold Outbound,1,1,1,39,Closed Lost,0
+COMP_0930,Enterprise_Client_930,EdTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0931,Enterprise_Client_931,FinTech,LinkedIn Inbound,1,1,1,66,Closed Won,18000
+COMP_0932,Enterprise_Client_932,HealthTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0933,Enterprise_Client_933,HealthTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0934,Enterprise_Client_934,EdTech,LinkedIn Inbound,1,1,1,58,Closed Won,12000
+COMP_0935,Enterprise_Client_935,E-commerce,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0936,Enterprise_Client_936,FinTech,LinkedIn Inbound,1,1,1,54,Closed Won,18000
+COMP_0937,Enterprise_Client_937,E-commerce,Referral,1,1,1,37,Closed Lost,0
+COMP_0938,Enterprise_Client_938,E-commerce,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0939,Enterprise_Client_939,FinTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0940,Enterprise_Client_940,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0941,Enterprise_Client_941,FinTech,Cold Outbound,1,1,1,45,Closed Lost,0
+COMP_0942,Enterprise_Client_942,EdTech,LinkedIn Inbound,1,1,1,78,Closed Lost,0
+COMP_0943,Enterprise_Client_943,B2B SaaS,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0944,Enterprise_Client_944,B2B SaaS,Referral,1,1,1,72,Closed Won,6000
+COMP_0945,Enterprise_Client_945,HealthTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0946,Enterprise_Client_946,B2B SaaS,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0947,Enterprise_Client_947,HealthTech,Organic Search,1,1,1,35,Closed Lost,0
+COMP_0948,Enterprise_Client_948,B2B SaaS,Referral,1,1,1,62,Closed Won,18000
+COMP_0949,Enterprise_Client_949,E-commerce,Referral,1,1,1,78,Closed Won,6000
+COMP_0950,Enterprise_Client_950,E-commerce,Organic Search,1,1,1,18,Closed Lost,0
+COMP_0951,Enterprise_Client_951,FinTech,Cold Outbound,1,1,1,73,Closed Won,24000
+COMP_0952,Enterprise_Client_952,E-commerce,Referral,1,1,1,43,Closed Lost,0
+COMP_0953,Enterprise_Client_953,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0954,Enterprise_Client_954,HealthTech,Referral,1,1,1,74,Closed Lost,0
+COMP_0955,Enterprise_Client_955,E-commerce,Referral,1,0,0,0,Closed Lost,0
+COMP_0956,Enterprise_Client_956,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0957,Enterprise_Client_957,FinTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0958,Enterprise_Client_958,E-commerce,LinkedIn Inbound,1,1,1,40,Closed Lost,0
+COMP_0959,Enterprise_Client_959,EdTech,Cold Outbound,1,1,1,14,Closed Lost,0
+COMP_0960,Enterprise_Client_960,B2B SaaS,Referral,1,1,1,19,Closed Lost,0
+COMP_0961,Enterprise_Client_961,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0962,Enterprise_Client_962,B2B SaaS,Referral,1,1,1,61,Closed Won,18000
+COMP_0963,Enterprise_Client_963,HealthTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0964,Enterprise_Client_964,EdTech,Referral,1,1,1,66,Closed Won,6000
+COMP_0965,Enterprise_Client_965,B2B SaaS,Cold Outbound,1,1,1,37,Closed Lost,0
+COMP_0966,Enterprise_Client_966,HealthTech,Cold Outbound,1,1,1,75,Closed Won,24000
+COMP_0967,Enterprise_Client_967,FinTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0968,Enterprise_Client_968,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0969,Enterprise_Client_969,E-commerce,Referral,1,1,0,0,Closed Lost,0
+COMP_0970,Enterprise_Client_970,EdTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0971,Enterprise_Client_971,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0972,Enterprise_Client_972,EdTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0973,Enterprise_Client_973,HealthTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0974,Enterprise_Client_974,B2B SaaS,Organic Search,1,1,1,18,Closed Lost,0
+COMP_0975,Enterprise_Client_975,FinTech,Referral,1,1,1,58,Closed Lost,0
+COMP_0976,Enterprise_Client_976,EdTech,Referral,1,0,0,0,Closed Lost,0
+COMP_0977,Enterprise_Client_977,HealthTech,Cold Outbound,1,1,1,29,Closed Lost,0
+COMP_0978,Enterprise_Client_978,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0979,Enterprise_Client_979,HealthTech,Referral,1,1,0,0,Closed Lost,0
+COMP_0980,Enterprise_Client_980,E-commerce,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0981,Enterprise_Client_981,B2B SaaS,Organic Search,1,1,1,43,Closed Lost,0
+COMP_0982,Enterprise_Client_982,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0983,Enterprise_Client_983,FinTech,LinkedIn Inbound,1,1,1,61,Closed Lost,0
+COMP_0984,Enterprise_Client_984,B2B SaaS,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0985,Enterprise_Client_985,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0986,Enterprise_Client_986,HealthTech,Referral,1,1,1,38,Closed Lost,0
+COMP_0987,Enterprise_Client_987,FinTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0988,Enterprise_Client_988,EdTech,LinkedIn Inbound,1,1,1,50,Closed Won,24000
+COMP_0989,Enterprise_Client_989,HealthTech,Referral,1,1,1,85,Closed Won,18000
+COMP_0990,Enterprise_Client_990,EdTech,Organic Search,1,1,0,0,Closed Lost,0
+COMP_0991,Enterprise_Client_991,EdTech,Organic Search,1,1,1,45,Closed Lost,0
+COMP_0992,Enterprise_Client_992,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0993,Enterprise_Client_993,HealthTech,LinkedIn Inbound,1,1,1,80,Closed Won,24000
+COMP_0994,Enterprise_Client_994,EdTech,Organic Search,1,0,0,0,Closed Lost,0
+COMP_0995,Enterprise_Client_995,FinTech,Cold Outbound,1,0,0,0,Closed Lost,0
+COMP_0996,Enterprise_Client_996,E-commerce,LinkedIn Inbound,1,1,0,0,Closed Lost,0
+COMP_0997,Enterprise_Client_997,E-commerce,Organic Search,1,1,1,31,Closed Lost,0
+COMP_0998,Enterprise_Client_998,HealthTech,LinkedIn Inbound,1,0,0,0,Closed Lost,0
+COMP_0999,Enterprise_Client_999,EdTech,Referral,1,1,1,73,Closed Won,12000
+COMP_1000,Enterprise_Client_1000,HealthTech,Cold Outbound,1,0,0,0,Closed Lost,0
